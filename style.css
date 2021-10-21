@@ -1,0 +1,340 @@
+body{
+    margin:0;
+
+}
+.row{
+    width: 100%;
+    height: 63px;
+    background-color: #fff;
+    margin-top: -5px;
+    position: fixed;
+}
+.logo{
+    width: 35px;
+    height: 32px;
+    margin-left: 22px;
+    margin-top: 15px;
+}
+.drivelogo{
+    width: 49px;
+    height: 18px;
+    margin-bottom: 7px;
+    margin-top: 14px;
+    margin-left: 9px;
+
+}
+.header_search{
+    width: 723px;
+    height: 49px;
+    border-radius: 5px;
+    background-color: rgb(236, 236, 236);
+    margin-left: 254px;
+    margin-top: -45px;
+}
+.header_ul{
+    margin-top: 11px;
+    padding-top: 1px;
+    margin-left: 19px;
+    list-style: none;
+    display: inline-block;
+}
+.search_text{
+    margin-top: 0px;
+    margin-bottom: 79px;
+    margin-left: 13px;
+    list-style: none;
+    display: inline-block;
+    color: rgb(170, 170, 170);
+    font-size: 14px;
+    font-family: 'Noto Sans', sans-serif;
+    display: inline-block;
+
+}
+.search{
+    margin-top: -25px;
+    margin-left: 49px;
+}
+.iconsearch{
+    margin-top: -99px;
+    margin-right: 16px;
+    float: right;
+}
+
+.profile{
+    border-radius: 27px;
+    margin-top: 10px;
+}
+.inner{
+    float: right;
+    display: inline;
+    list-style: none;
+    margin-top: -123px;
+    margin-right: 23px;
+}
+.right{
+    float: right;
+    display: inline;
+    list-style: none;
+    margin-top: -98px;
+    margin-right: 157px;
+}
+.left_container{
+    width: 255px;
+    height: 700px;
+    margin-top: 60px;
+    background-color: rgb(234, 235, 233);
+    position: fixed;
+}
+
+
+
+.body_container{
+        width: 81%;
+    height: 700px;
+    margin-top: 75px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 179px;
+   
+   
+}
+.right_container{
+    width: 40px;
+    height: 700px;
+    margin-top: -718px;
+    background-color: rgb(233, 233, 229);
+    margin-left: 1480px;
+}
+.new{
+    width: 116px;
+    height: 48px;
+    border-radius: 33px;
+    background-color: #fff;
+    margin-left: 13px;
+    margin-top: 12px;
+}
+.text{
+    width: 20px;
+    height: 30px;
+    padding-left: 55px;
+    padding-top: 13px;
+    font-size: 17px;
+}
+.righticons{
+    list-style: none;
+    float: right;
+    position: fixed;
+}
+.text1{
+    margin-top: -53px;
+    
+}
+.body1{
+    width: 233px;
+    height: 213px;
+    background-color: #f1ecec;
+    margin-top: 21px;
+    margin-left: 91px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.mydrive{
+    margin-left: -58px;
+    list-style: none;
+    color: rgb(77, 77, 236);
+    background-color: #d0d0f4;
+    border-radius: 22px;
+    width: 269px;
+    height: 47px;
+}
+.uldesign{
+    list-style: none;
+}
+.textdrive{
+    margin-left: 92px;
+    padding-top: 14px;
+    font-size: 14px;
+    color: blue;
+
+}
+.mydrive2{
+    margin-left: -58px;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    background-color:#f1ecec;
+    border-radius: 22px;
+    width: 269px;
+    height: 47px;
+}
+.textdrive2{
+    margin-left: 92px;
+    padding-top: 14px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+
+}
+.mydrivebutton{
+    margin-left: 92px;
+    padding-top: 14px;
+    font-size: 14px;
+    color: blue;
+    background-color:#f1ecec;
+
+}
+.textdrive3{
+    margin-left: -61px;
+    padding-top: 14px;
+    font-size: 14px;
+    color: blue;
+
+}
+.icons{
+    margin-left: 20px;
+    color: black;
+}
+.body2{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -213px;
+    margin-left: 336px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body3{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -213px;
+    margin-left: 578px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body31{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -213px;
+    margin-left: 821px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body32{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -213px;
+    margin-left: 1061px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body4{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: 32px;
+    margin-left: 91px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body5{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -215px;
+    margin-left: 336px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body6{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -214px;
+    margin-left: 578px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body7{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -215px;
+    margin-left: 821px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body8{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -214px;
+    margin-left: 1061px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body81{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: 31px;
+    margin-left: 91px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+
+.body9{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -215px;
+    margin-left: 336px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body10{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -214px;
+    margin-left: 578px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body11{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -215px;
+    margin-left: 821px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.body12{
+    width: 233px;
+    height: 213px;
+    background-color: #e8e8e8;
+    margin-top: -214px;
+    margin-left: 1061px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+}
+.img1{
+    width: 227px;
+    height: 208px;
+    margin-left: 2px;
+    margin-top: 2px;
+}
